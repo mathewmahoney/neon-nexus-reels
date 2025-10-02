@@ -1,0 +1,15 @@
+{
+  "gameId": "neon-nexus-reels",
+  "name": "Neon Nexus Reels",
+  "version": "1.0.0",
+  "type": "slots",
+  "minBet": 0.1,
+  "maxBet": 100,
+  "currency": "USD",
+  "features": {
+    "freeSpins": true,
+    "wilds": true,
+    "multipliers": true
+  },
+  "entryPoint": "dist/index.js"
+}
